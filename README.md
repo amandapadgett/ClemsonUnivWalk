@@ -1,6 +1,6 @@
 # Taking a Walk Down Memory Lane
 
-<a class="dropdown-item" href="https://amandapadgett.github.io/ClemsonWalk/">Run my Clemson University walk down memory lane.</a>
+<a class="dropdown-item" href="https://amandapadgett.github.io/ClemsonUnivWalk/">Run my Clemson University walk down memory lane.</a>
 
 ## Description:
 
@@ -12,6 +12,6 @@ To begin the journey, click the button at the top of the screen, and the marker 
 
 ## License Information:
 
-<a href="https://github.com/amandapadgett/MapAnimation/blob/main/LICENSE">MIT License</a>
+<a href="https://github.com/amandapadgett/ClemsonUnivWalk/blob/main/LICENSE">MIT License</a>
 
-<img src="https://github.com/amandapadgett/ClemsonWalk/blob/main/ClemsonUniveristyMap.png" width="500" height="auto" />
+<img src="https://github.com/amandapadgett/ClemsonUnivWalk/blob/main/ClemsonUniveristyMap.png" width="500" height="auto" />
