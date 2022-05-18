@@ -1,6 +1,6 @@
-# Real Time Bus Tracker
+# Taking a Walk Down Memory Lane
 
-<a class="dropdown-item" href="https://amandapadgett.github.io/ClemsonWalk/">Run the Real Time Bus Tracker</a>
+<a class="dropdown-item" href="https://amandapadgett.github.io/ClemsonWalk/">Run my Clemson University walk down memory lane.</a>
 
 ## Description:
 
